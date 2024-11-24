@@ -4,6 +4,7 @@
 using namespace std;
 int main(){
     int rows=11;
+    cout<<"Raja"<<endl;
     cout<<"W pattern:-"<<endl;
     for(int i=rows;i>=1;i--){
         // for spaces
